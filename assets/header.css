@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(to bottom, #6795FF,#6780FF,#676CFF,#7667FF,#8A67FF,#9F67FF,
+    #B367FF,#C767FF,#DC67FF,#F067FF,#FF67FA,#FF67E6);
+}
+
+.navbar{
+  background-color: #222222;
+  width: auto;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.container{
+  background-color: white;
+  width: auto;
+  font-family: Georgia;
+  font-style: bold;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 12px;
+  margin-bottom: 10px;
+  text-align: justify;
+  text-justify: inherit;
+}
+
+.chart{
+  font-family: sans-serif;
+  background-color: white;
+  padding : 10px;
+  border-radius: 10px; 
+}
+.dropdown{
+  margin-top: 10px;
+  font-family: Georgia;
+  padding : 10px;
+  text-align: center;
+  color : #333 ;
+  border-radius: 10px;  
+}
+
+.title{
+  font-style:inherit;
+  font-family: Georgia;
+  font-size: 25px;
+  text-align: center;
+  padding : 10px;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
